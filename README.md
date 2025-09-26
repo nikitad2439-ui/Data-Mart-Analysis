@@ -36,6 +36,6 @@ The goal is to measure the business impact of **sustainable packaging changes** 
 
 🎓 Learning Outcomes
 
-Proficiency in SQL data cleaning & transformation
-Creating a Data Mart schema for analytics
+Proficiency in SQL data cleaning & transformation,
+Creating a Data Mart schema for analytics, 
 Answering real-world business questions with SQL
